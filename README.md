@@ -16,7 +16,7 @@ Day 8: *added code*
 
 Day 9: *added code*
 
-Day 10: Machine Learning and AI concepts were utilized in this game very well. In the beginning they had the player choose who to hire and who to reject for a startup company. Later, we had a Machine Learning Model built based on the decisions that the player made. And through this model, we see the acidental bias that the player may have engaged in. A possible bias in a model in real life is the Amazon hiring algorithm. Amazon's hiring algorithm had a bias against women because in the past, more males than females applied, causing the algorithm to favor men over women. One way we can fix this is to randomly cut out data from the men's section until it equals the womens section, then ma
+Day 10: Machine Learning and AI concepts were utilized in this game very well. In the beginning they had the player choose who to hire and who to reject for a startup company. Later, we had a Machine Learning Model built based on the decisions that the player made. And through this model, we see the acidental bias that the player may have engaged in. A possible bias in a model in real life is the Amazon hiring algorithm. Amazon's hiring algorithm had a bias against women because in the past, more males than females applied, causing the algorithm to favor men over women. One way we can fix this is to randomly cut out data from the men's section until it equals the womens section, then making the genders equal in the eyes of the model.
 
-Day 11:
+Day 11: *added code*
 
